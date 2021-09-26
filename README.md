@@ -5,4 +5,4 @@
 - 📫 How to reach me [Join My discord](https://discord.gg/bQgBGAaDez) | or email findustries99@gmail.com
 
 💻 Programs
-- Version 0.1 of [Chrome Bomber](https://github.com/felixbennett/chromebomber)
+- Version 0.2 of [Chrome Bomber](https://github.com/felixbennett/chromebomber)
