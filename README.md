@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixbennett
 - 👀 I’m interested in ```Coding```
 - 🌱 I’m currently learning ```Coding```
-- 💞️ I’m looking to collaborate on ```You guessed it! Coding.
+- 💞️ I’m looking to collaborate on ```You guessed it! Coding.```
 - 📫 How to reach me [Join My discord](https://discord.com/invite/aqA34xCkvk) | or email findustries99@gmail.com
 
 
