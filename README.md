@@ -6,3 +6,4 @@
 
 💻 Programs
 - Version 0.2 of [Chrome Bomber](https://github.com/felixbennett/chromebomber)
+- AmogOS [See here!](https://github.com/jostroOS/AmogOS)
