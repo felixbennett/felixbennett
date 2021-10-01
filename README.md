@@ -7,7 +7,7 @@
   <p>Here are the current projects i am involved in!</p>
   <a>• <b>JostroOS</b> - JostroOS is a lightweight version of Raspberry PI os.<br></a>
   <a>• <b>AmogOS</b> - When the imposter is...sus?!<br></a>
-  <h5> More coming shortly!>
+  <h5> More coming shortly! <h5>
   
   <p>Warning: Any code used for malicious intent is not at the fault of the developer. Please be responsible and use it for ethical reasons</p>
 
