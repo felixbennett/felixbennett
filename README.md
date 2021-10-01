@@ -4,12 +4,12 @@
   
   <hr width="50%" style="height:5px;">
   
-  <p>Currently, I am working on several projects. These are:</p>
-  <a>• <b>game.exe</b> - A game I'm working on which uses no external libraries or frameworks, other than ones written by me<br></a>
-  <a>• <b>bambooOS</b> - An operating system written in Assembly + C++<br></a>
-  <a>• <b>NEPL</b> - An Interpreted language written in Java, and soon to be written in C/C++<br><br></a>
+  <p>Here are the current projects i am involved in!</p>
+  <a>• <b>JostroOS</b> - JostroOS is a lightweight version of Raspberry PI os.<br></a>
+  <a>• <b>AmogOS</b> - When the imposter is...sus?!<br></a>
+  <h5> More coming shortly!>
   
-  <p>I'm really interested in open source code, and soon I'll release some of the libraries which I have written, such as the game engine which I'm using to make game.exe.</p>
+  <p>Warning: Any code used for malicious intent is not at the fault of the developer. Please be responsible and use it for ethical reasons</p>
 
   <hr width="50%" style="height:5px;">
   
