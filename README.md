@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Sup! I am Felix. 👋<br>I develop software in Java, <br>Python, C/C++ and Go</h3>
+  <h3>Sup! I am Felix. 👋<br>I like coding, hacking and more. I currently know<br>Python, C+ and a bit of Java and HTML and all of that nonsense!</h3>
   <h4> <a href="https://felixisweird.com">Website</a> <a href="https://discord.gg/JyEK5Xpted">Discord</a>
   
   <hr width="50%" style="height:5px;">
