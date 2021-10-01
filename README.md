@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Hi, I'm BambooPyanda 👋<br>I develop software in Java, <br>Python, C/C++ and Go</h3>
-  <h4> <a href="https://github.com/BambooPyanda/BambooPyanda/socials.md">Socials</a> • <a href="https://www.google.com">Website</a> • <a href="https://www.google.com">Blog</a> <br>(links temporarily unavailable)</h4>
+  <h3>Sup! I am Felix. 👋<br>I develop software in Java, <br>Python, C/C++ and Go</h3>
+  <h4> <a href="https://felixisweird.com">Website</a> <a href="https://discord.gg/JyEK5Xpted">Discord</a>
   
   <hr width="50%" style="height:5px;">
   
@@ -15,7 +15,7 @@
   
   <h3>Notes 📝</h3>
   
-  <a>I'm new to Github, so hopefully I'll have lots of my code/projects uploaded soon!<br></a>
-  <a href=https://github.com/BambooPyanda/BambooPyanda/issues/1>Feel free to ask me anything here</a>
+  <a> Gonna be posting more stuff soon!!<br></a>
+  <a> Contact me on discord:felixisweird#5144 or join my discord!</a>
   
 </div>
