@@ -10,7 +10,7 @@
     <h3>Notes 📝</h3>
     <a> Contact me on discord: felixisweird#9825, or join my discord! <br></a>
     <br>
-    <h3> Tools and Skills! 🔨 <h3> 
+    <h3> Tools and Skills! 🔨 </h3> 
       <br>
     <a href="https://code.visualstudio.com/">Visual Studio Code</a>
       <h4> This is my favourite IDE as it has l-ots of room for extension and documentation and is extremely stable </h4>
