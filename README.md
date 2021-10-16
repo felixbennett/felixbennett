@@ -19,7 +19,7 @@
   <a> Contact me on discord: felixisweird#5144 or join my discord!</a>
   <h4> Friendly reminder  to drink lots of water! 😎
     
-       <h3> Tools and Skills! 🔨 <h3> 
+       <h3> Tools and Skills! 🔨 </h3> 
       
     <a href="https://code.visualstudio.com/">Visual Studio Code</a>
       <h4> This is my favourite IDE as it has lots of room for extension and documentation and is extremely stable </h4>
