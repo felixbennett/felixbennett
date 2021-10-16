@@ -7,10 +7,10 @@
     <br>
     <a>• <b>AmogOS</b> - A very very sus debian based operating system - LEFT TEAM TO FOCUS ON OTHER STUFF<br></a>
     <br>
-    <p> If you use any of my code, i am not associated to any damages you may cause.</p>
     <hr width="50%" style="height:5px;">
     <h3>Notes 📝</h3>
     <a> Contact me on discord: felixisweird#9825, or join my discord! <br></a>
+    <p> If you use any of my code, i am not associated to any damages you may cause.</p>
     <br>
     <h3> Tools and Skills! 🔨 <h3> 
       <br>
