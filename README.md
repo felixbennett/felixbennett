@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Sup! I am Felix. 👋<br>I like to code and program! <br> I like doing front end and back end </h3>
-    <h4> <a href="felixisweird.com">Website</a> │ <a href="https://discord.gg/ZwxEjKg3gY">My Discord</a></h4>
+    <h4> <a href="felixisweird.com">Website</a> │ <a href="https://discord.gg/ZwxEjKg3gY">My Discord</a> │ <a href="mailto://felixbnt@pm.me">Email me!</h4>
     <hr width="50%" style="height:5px;">
     <p>These are the projects i am involved in!</p>
     <a>• <b>JostroOS</b> - A lightweight oprating system designed for the raspberry pi - LEFT TEAM TO FOCUS ON OTHER STUFF<br></a>
@@ -10,10 +10,10 @@
     <h3>Notes 📝</h3>
     <a> Contact me on discord: felixisweird#9825, or join my discord! <br></a>
     <br>
-    <h3> Tools and Skills! 🔨 </h3> 
+    <h3> Tools and Skills! 🔨 <h3> 
       <br>
     <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-      <h4> This is my favourite IDE as it has lots of room for extension and documentation and is extremely stable </h4>
+      <h4> This is my favourite IDE as it has l-ots of room for extension and documentation and is extremely stable </h4>
     <a href="https://replit.com/">Replit</a>
       <h4> This is a great tool. I use it to host some websites and projects, and it is good for collaboration. </h4>
     <a href="https://www.javascript.com/">JavaScript</a>
