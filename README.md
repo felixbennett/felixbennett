@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Sup! I am Felix. 👋<br>I like to code and program! <br> I like doing front end and back end </h3>
-    <h4> <a href="felixbnt.com">Website</a> │ <a href="https://discord.gg/ZwxEjKg3gY">My Discord</a> │ <a href="mailto://felixbnt@pm.me">Email me!</h4>
+    <h4> <a href="https://felixbnt.com">Website</a> │ <a href="https://discord.gg/ZwxEjKg3gY">My Discord</a> │ <a href="mailto://felixbnt@pm.me">Email me!</h4>
     <hr width="50%" style="height:5px;">
     <p>These are the projects i am involved in!</p>
     <a>• <b>JostroOS</b> - A lightweight oprating system designed for the raspberry pi - LEFT TEAM TO FOCUS ON OTHER STUFF<br></a>
