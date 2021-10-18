@@ -12,7 +12,7 @@
     <a> Contact me on discord: felixisweird#9825, or join my discord! <br></a>
     <p> If you use any of my code, i am not associated to any damages you may cause.</p>
     <br>
-    <h3> Tools and Skills! 🔨 <h3> 
+    <h3> Tools and Skills! 🔨 </h3> 
       <br>
     <a href="https://code.visualstudio.com/">Visual Studio Code</a>
       <h4> This is my favourite IDE as it has l-ots of room for extension and documentation and is extremely stable </h4>
