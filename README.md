@@ -6,9 +6,9 @@
     <p>These are the projects i am involved in!</p>
     <a>• <b>Xonia</b> - A secure, open source messaging platform - I really believe in this. <br></a>
     <br>
-    <a>• <b>JostroOS</b> - A lightweight oprating system designed for the raspberry pi - LEFT TEAM TO FOCUS ON OTHER STUFF<br></a>
+    <a>• <b>JostroOS</b> - A lightweight oprating system designed for the raspberry pi<br></a>
     <br>
-    <a>• <b>AmogOS</b> - A very very sus debian based operating system - LEFT TEAM TO FOCUS ON OTHER STUFF<br></a>
+    <a>• <b>AmogOS</b> - A very very sus debian based operating system<br></a>
     <br>
     <hr width="50%" style="height:5px;">
     <h3>Notes 📝</h3>
