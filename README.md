@@ -26,5 +26,6 @@
     <a href="https://www.python.org/">Python</a>
        <h4> I know some Python. Honestly i have switched over to JavaScript for my function based back end code, but this is a good starting point. </h4>
     <br>
+       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbennett&show_icons=true&locale=en&layout=compact" alt="felixbennett" /></p>
     <h2> This is your friendly reminder to chug some water! 💧
   </div>
