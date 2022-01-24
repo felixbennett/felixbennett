@@ -12,15 +12,13 @@
     <br>
     <hr width="50%" style="height:5px;">
     <h3>Notes 📝</h3>
-    <a> Contact me on discord: felixisweird#9825, or join my discord! <br></a>
+    <a> Contact me on discord: felixbnt#0001, or join my discord! <br></a>
     <p> If you use any of my code, i am not associated to any damages you may cause.</p>
     <br>
     <h3> Tools and Skills! 🔨 </h3> 
       <br>
     <a href="https://code.visualstudio.com/">Visual Studio Code</a>
       <h4> This is my favourite IDE as it has l-ots of room for extension and documentation and is extremely stable </h4>
-    <a href="https://replit.com/">Replit</a>
-      <h4> This is a great tool. I use it to host some websites and projects, and it is good for collaboration. </h4>
     <a href="https://www.javascript.com/">JavaScript</a>
       <h4> This is one of my favourite backend programming languages. This usually goes in hand with HTML and CSS and it runs the web. </h4>
     <a href="https://www.w3.org/standards/webdesign/htmlcss">HTML and CSS</a>
