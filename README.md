@@ -1,6 +1,6 @@
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixbennett&count_private=true)
 <div align="center">
-    <h3>Sup! I am Felix. 👋<br>I like to code and program!</h3>
+    <h3>Sup! I am Felix. 👋<br>I like to make stuff!</h3>
     <hr width="50%" style="height:5px;">
     <p>These are the projects i am involved in!</p>
     <hr width="50%" style="height:5px;">
