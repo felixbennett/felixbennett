@@ -6,7 +6,7 @@
     <hr width="50%" style="height:5px;">
     <a>• <b>UUu LLC</b> - Memorize the name.<br></a>
     <br>
-    <a>• <b>IoniCore</b> -A company dedicated to making stuff on the Urbit protocol.<br></a>
+    <a>• <b>IoniCore</b> - A company dedicated to making stuff on the Urbit protocol.<br></a>
     <hr width="50%" style="height:5px;">
     <h5><strong>Crossed out:</strong> I have either stopped working for them, or the project stopped itself. </h5>
    <del> <a>• <b>Xonia</b> - A secure, open source messaging platform - I really believe in this. <br></a></del>
