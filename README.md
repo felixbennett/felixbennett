@@ -3,12 +3,12 @@
     <h3>Sup! I am Felix. 👋<br>I like to code and program!</h3>
     <hr width="50%" style="height:5px;">
     <p>These are the projects i am involved in!</p>
-    <h5>Crossed out: I have either stopped working for them, or the project stopped itself. </h5>
     <hr width="50%" style="height:5px;">
     <a>• <b>UUu LLC</b> - Memorize the name.<br></a>
     <br>
     <a>• <b>IoniCore</b> -A company dedicated to making stuff on the Urbit protocol.<br></a>
-    <br>
+    <hr width="50%" style="height:5px;">
+    <h5><strong>Crossed out:</strong> I have either stopped working for them, or the project stopped itself. </h5>
    <del> <a>• <b>Xonia</b> - A secure, open source messaging platform - I really believe in this. <br></a></del>
     <br>
     <del><a>• <b>JostroOS</b> - A lightweight oprating system designed for the raspberry pi<br></a></del>
