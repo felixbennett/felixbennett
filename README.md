@@ -1,3 +1,4 @@
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixbennett&count_private=true)
 <div align="center">
     <h3>Sup! I am Felix. 👋<br>I like to code and program! <br> I like doing front end and back end </h3>
     <hr width="50%" style="height:5px;">
@@ -10,7 +11,7 @@
     <br>
     <hr width="50%" style="height:5px;">
     <h3>Notes 📝</h3>
-    <a> Contact me via email at felixbnt@pm.me for queries. <br></a>
+    <a> Contact me via email at felix@ionicore.net for queries. <br></a>
     <p> If you use any of my code, i am not associated to any damages you may cause.</p>
     <br>
     <h3> Tools and Skills! 🔨 </h3> 
@@ -24,6 +25,5 @@
     <a href="https://www.python.org/">Python</a>
        <h4> I know some Python. Honestly i have switched over to JavaScript for my function based back end code, but this is a good starting point. </h4>
     <br>
-       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbennett&show_icons=true&locale=en&layout=compact" alt="felixbennett" /></p>
-    <h2> This is your friendly reminder to chug some water! 💧
   </div>
+
