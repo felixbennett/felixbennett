@@ -1,1 +1,1 @@
-![gitmetrics](https://raw.githubusercontent.com/felixbennett/felixbennett/08d59e384f2935ed3733ae8149f3e2a6b0abe2b0/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/felixbennett?template=classic&introduction=1&tweets=1&base.indepth=false&base.hireable=false&introduction.title=true&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FLondon)
